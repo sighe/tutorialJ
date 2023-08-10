@@ -6,7 +6,7 @@
 [aLeaves紹介スライド](https://www.slideshare.net/cdb_gras/brief-introduction-of-kuraku-zsj13a-leavesup)（2013年日本動物学会年会において口頭発表）
 <br>
 #一般向けゲーム<br>
-
+<br>
 系統樹ゲーム<br>
 <br>
 いきものつなぎ<br>
