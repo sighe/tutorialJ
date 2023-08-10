@@ -11,7 +11,7 @@
 ・[aLeaves紹介スライド](https://www.slideshare.net/cdb_gras/brief-introduction-of-kuraku-zsj13a-leavesup)（2013年日本動物学会年会において口頭発表）<br>
 ・[aLeaves紹介ムービー](https://togotv.dbcls.jp/20140228.html)(TogoTV)<br>
 <br>
-## 一般向けゲーム
+## 一般向け教材
 
 ### 系統樹ゲーム ― いきもののフィギュアを使って、多様な生き物の枝分かれの歴史を体感する
 ・[ゲーム盤とあそびかた](https://github.com/sighe/tutorialJ/blob/main/%E7%B3%BB%E7%B5%B1%E6%A8%B9%E3%82%B2%E3%83%BC%E3%83%A0%E7%9B%A42023.pdf)
