@@ -1,12 +1,12 @@
 # 「ゲノム時代の生物多様性リテラシー」普及活動
 
-このページでは、国立遺伝学研究所 分子生命史研究室（[教授 工樂 樹洋](https://researchmap.jp/genombaum)）、あるいは、その前身の理化学研究所時代の研究室で実施した活動についてまとめています。
+ゲノム情報や大規模分子解析ツールにもとづく生命科学研究が盛んに行われるようになり、新しい生物多様性のリテラシーが求められています。このページでは、国立遺伝学研究所 分子生命史研究室（[教授 工樂 樹洋](https://researchmap.jp/genombaum)）、あるいは、その前身の理化学研究所時代の研究室で作成した教材を公開するとともに、普及活動の実績についてまとめています。
 
-## 高校生以上向けチュートリアル教材（日本語）
+## 高校生以上向けチュートリアル教材
 
-### 系統樹推定に用いるデータセット選定ツールaLeaves (エイリーヴズ)
+### 実習等に用いることのできる系統樹推定用データセット選定ツール aLeaves (エイリーヴズ)
 
-・ウェブサーバ[aLeaves](https://aleaves.riken.jp/aleaves/)<br>
+・ウェブサーバ [aLeaves](https://aleaves.riken.jp/aleaves/)<br>
 ・[aLeaves紹介スライド](https://www.slideshare.net/cdb_gras/brief-introduction-of-kuraku-zsj13a-leavesup)（2013年日本動物学会年会において口頭発表）<br>
 ・[aLeaves紹介ムービー](https://togotv.dbcls.jp/20140228.html)(TogoTV)<br>
 <br>
