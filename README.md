@@ -15,6 +15,6 @@
 <br>
 <br>
 ### いきものつなぎ
-・[説明スライド]()<br>
+・[説明スライド](https://github.com/sighe/tutorialJ/blob/main/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%A4%E3%81%AA%E3%81%8E%E3%83%BC%E8%AA%AC%E6%98%8E%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892016.pdf)<br>
 ・[ワークシート](https://github.com/sighe/tutorialJ/blob/main/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%A4%E3%81%AA%E3%81%8E%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%882023J.pdf)
 
