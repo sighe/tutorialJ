@@ -5,8 +5,10 @@
 <br>
 ## 高校生以上向けチュートリアル教材
 
+<br>
 <span style="color: red; ">**先日(2023年8月11日)の日本生物教育会（JABE)での発表スライドへは末尾の活動リストからリンクしています。**</span>
-
+<br>
+<br>
 ### 実習等に用いることのできる系統樹推定用データセット選定ツール aLeaves (エイリーヴズ)
 
 ・ウェブサーバ [aLeaves](https://aleaves.riken.jp/aleaves/)<br>
@@ -25,7 +27,7 @@
 
 ## これまでに行なった普及活動
 
-・[大阪府高等学校生物教育研究会](http://seiken.sub.jp/kakari/kouenkai/index.htm)にて講演「生命情報科学によるゲノム進化研究～生命の共通語DNAで学術と社会をつなぐ～」（2020年11月）[発表スライド](https://github.com/sighe/tutorialJ/blob/main/Kuraku-JABE2023Osaka.pdf)
+・[大阪府高等学校生物教育研究会](http://seiken.sub.jp/kakari/kouenkai/index.htm)にて講演「生命情報科学によるゲノム進化研究～生命の共通語DNAで学術と社会をつなぐ～」（2020年11月）[発表スライド](https://github.com/sighe/tutorialJ/blob/main/Kuraku-JABE2023Osaka.pdf)<br>
 ・海遊館×理研ＢＤＲトークイベント「海の大型動物にDNAで迫る」～研究者と飼育員が語る、コラボ研究のおもしろさ！～にて講演（2018年11月18日）<br>
 ・若手研究者と語ろう会サイエンスカフェ高槻にて講演「ゲノムから見る自然と人のつながり」（2018年11月4日）<br>
 ・海遊館主催シンポジウムとサイエンスカフェ「ジンベエザメに海のことを聞いてみよう！～海と日本PROJECT～」にて講演（2017年8月6日）<br>
