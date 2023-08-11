@@ -30,7 +30,7 @@
 
 ## これまでに行なった普及活動
 
-・日本生物教育会（JABE）第77回全国大会にて研修「ウェブサイトaLeavesを利用した分子系統解析」近畿大学東大阪キャンパス（2023年8月） [発表スライド](https://github.com/sighe/tutorialJ/blob/main/Kuraku-JABE2023Osaka.pdf)<br>
+・[日本生物教育会（JABE）第77回全国大会](https://sites.google.com/view/jabe77osaka/home?authuser=0)にて研修「ウェブサイトaLeavesを利用した分子系統解析」近畿大学東大阪キャンパス（2023年8月） [発表スライド](https://github.com/sighe/tutorialJ/blob/main/Kuraku-JABE2023Osaka.pdf)<br>
 ・[大阪府高等学校生物教育研究会](http://seiken.sub.jp/kakari/kouenkai/index.htm)にて講演「生命情報科学によるゲノム進化研究～生命の共通語DNAで学術と社会をつなぐ～」（2020年11月）<br>
 ・令和4年度 遺伝学講座・みしま にて 一般向け講演「魚のDNAから知る5億年前の私たちの祖先」2023年1月（会場 三島市民文化会館）<br>
 ・国立遺伝学研究所ONLINE公開講演会2022にて一般向け講演「DNA情報から見る動物の進化」 2022年12月<br>
