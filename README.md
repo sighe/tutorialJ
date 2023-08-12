@@ -17,29 +17,31 @@
 ・ウェブサーバ [aLeaves](https://aleaves.riken.jp/aleaves/)<br>
 ・[aLeaves紹介スライド](https://www.slideshare.net/cdb_gras/brief-introduction-of-kuraku-zsj13a-leavesup)（2013年日本動物学会年会において口頭発表）<br>
 ・[aLeaves紹介ムービー](https://togotv.dbcls.jp/20140228.html)(TogoTV)<br>
-・[NCBI Protein](https://www.ncbi.nlm.nih.gov/protein/) - aLeavesでの検索に利用する配列の取得
+・[NCBI Protein](https://www.ncbi.nlm.nih.gov/protein/) - aLeavesでの検索に利用する配列(「見出し配列」あるいは「クエリー配列」)の取得
 <br>
 
 ### 配列アラインメントや系統樹推定を用いた課題のアイデア
 
 
-1.生物の系統関係 <br>
-a.クジラはカバに近い哺乳類である<br>
-b.カメは（ヘビやトカゲよりも）鳥やワニに近縁である<br>
-c.サメとエイ（ともに軟骨魚類）は互いに近縁で、他の魚類とは別の系統を形成する<br>
+1. 生物の系統関係 <br>
+a. クジラはカバに近い哺乳類である<br>
+b. カメは（ヘビやトカゲよりも）鳥やワニに近縁である<br>
+c. サメとエイ（ともに軟骨魚類）は互いに近縁で、他の魚類とは別の系統を形成する<br>
 <br>
-2.分子進化の中立説の検証 <br>
-a.遺伝子やタンパク質の配列の中で変化を受けやすいのはどういう領域か？<br>
+2. 分子進化の中立説の検証 <br>
+a. 遺伝子やタンパク質の配列の中で変化を受けやすいのはどういう領域か？<br>
 （DNA結合ドメインやヒストンタンパク質は保存性が高い、ペプチドホルモンの活性型配列以外の領域は保存性が低い、など）<br>
+b. 偽遺伝子の分子進化速度の上昇
 <br>
-3.特定の生物種群にしか存在しない遺伝子（遺伝子の起源を調べる） <br>
-c.レプチンLeptin遺伝子はいつ獲得されたか？ [参考記事](https://www.riken.jp/press/2018/20181009_1/)<br>
+3. 特定の生物種群にしか存在しない遺伝子（遺伝子の起源を調べる） <br>
+a. レプチンLeptin遺伝子はいつ獲得されたか？ [参考記事](https://www.riken.jp/press/2018/20181009_1/)<br>
+b. 有顎魚類に広く存在するが四肢動物には存在しないActinodin遺伝子
 <br>
-4.遺伝子の系統関係（重複遺伝子の扱いを含む)<br>
-a.Hox遺伝子クラスターの成立過程を調べる<br>
+4. 遺伝子の系統関係（重複遺伝子の扱いを含む)<br>
+a. Hox遺伝子クラスターの成立過程を調べる<br>
 <br>
-5.特定の生命現象に関わる遺伝子を調べる  <br>
-a.ジンベエザメの光受容メカニズム 
+5. 特定の生命現象に関わる遺伝子を調べる  <br>
+a. ジンベエザメの光受容メカニズム 
 [参考記事](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html) 
 [配列データセット](https://github.com/sighe/training-materials/blob/main/Rhodopsin-sharks-plus-total12.faa) <br>
 <br>
