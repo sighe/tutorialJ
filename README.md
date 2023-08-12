@@ -31,13 +31,13 @@ a.遺伝子やタンパク質の配列の中で変化を受けやすいのはど
 （DNA結合ドメインやヒストンタンパク質は保存性が高い、ペプチドホルモンの活性型配列以外の領域は保存性が低い、など）<br>
 <br>
 3.特定の生物種群にしか存在しない遺伝子（遺伝子の起源を調べる）<br>
-c.レプチンLeptin遺伝子はいつ獲得されたか？（[参考記事](https://www.riken.jp/press/2018/20181009_1/)）<br>
+c.レプチンLeptin遺伝子はいつ獲得されたか？[参考記事](https://www.riken.jp/press/2018/20181009_1/)<br>
 <br>
 4.遺伝子の系統関係（重複遺伝子の扱いを含む）<br>
 a.Hox遺伝子クラスターの成立過程を調べる<br>
 <br>
 5.特定の生命現象に関わる遺伝子を調べる<br>
-a.ジンベエザメの光受容メカニズム（[参考記事](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html) / [配列データセット](https://github.com/sighe/training-materials/blob/main/Rhodopsin-sharks-plus-total12.faa)）<br>
+a.ジンベエザメの光受容メカニズム[参考記事](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html)/ [配列データセット](https://github.com/sighe/training-materials/blob/main/Rhodopsin-sharks-plus-total12.faa)<br>
 <br>
 
 ## 一般向け教材
