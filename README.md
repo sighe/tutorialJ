@@ -18,6 +18,26 @@
 ・[aLeaves紹介スライド](https://www.slideshare.net/cdb_gras/brief-introduction-of-kuraku-zsj13a-leavesup)（2013年日本動物学会年会において口頭発表）<br>
 ・[aLeaves紹介ムービー](https://togotv.dbcls.jp/20140228.html)(TogoTV)<br>
 <br>
+
+### 配列アラインメントや系統樹推定を用いた課題のアイデア
+
+・生物の系統関係
+　　　クジラはカバに近い哺乳類である
+　　　カメは（ヘビやトカゲよりも）鳥やワニに近縁である
+　　　サメとエイ（ともに軟骨魚類）は互いに近縁で、他の魚類とは別の系統を形成する
+・分子進化の中立説の検証
+　　　遺伝子やタンパク質の配列の中で変化を受けやすいのはどういう領域か？
+   　　　（DNA結合ドメインやヒストンタンパク質は保存性が高い、ペプチドホルモンの活性型配列以外の領域は保存性が低い、など）
+・特定の生物種群にしか存在しない遺伝子（遺伝子の起源を調べる）
+　　　レプチンLeptin遺伝子はいつ獲得されたか？（[参考記事](https://www.riken.jp/press/2018/20181009_1/)）
+
+・遺伝子の系統関係（重複遺伝子の扱いを含む）
+　　　Hox遺伝子クラスターの成立過程を調べる
+
+・特定の生命現象に関わる遺伝子を調べる
+　　　ジンベエザメの光受容メカニズム（[参考記事](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html) / [配列データセット](https://github.com/sighe/training-materials/blob/main/Rhodopsin-sharks-plus-total12.faa)）
+　　　
+
 ## 一般向け教材
 
 ### 系統樹ゲーム ― 生き物のフィギュアを使って、多様な生き物の枝分かれの歴史を体感する
