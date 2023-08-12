@@ -37,7 +37,7 @@ c.レプチンLeptin遺伝子はいつ獲得されたか？[参考記事](https:
 a.Hox遺伝子クラスターの成立過程を調べる<br>
 <br>
 5.特定の生命現象に関わる遺伝子を調べる<br>
-a.ジンベエザメの光受容メカニズム [参考記事](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html) / [配列データセット](https://github.com/sighe/training-materials/blob/main/Rhodopsin-sharks-plus-total12.faa) <br>
+a.ジンベエザメの光受容メカニズム [参考記事](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html) [配列データセット](https://github.com/sighe/training-materials/blob/main/Rhodopsin-sharks-plus-total12.faa) <br>
 <br>
 
 ## 一般向け教材
