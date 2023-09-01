@@ -22,7 +22,7 @@
 
 ### 配列アラインメントや系統樹推定を用いた課題のアイデア
 
-
+<br>
 1. 生物の系統関係 <br>
 a. クジラはカバに近い哺乳類である<br>
 b. カメは（ヘビやトカゲよりも）鳥やワニに近縁である<br>
@@ -36,6 +36,7 @@ b. 偽遺伝子の分子進化速度の上昇<br>
 3. 特定の生物種群にしか存在しない遺伝子（遺伝子の起源を調べる） <br>
 a. レプチンLeptin遺伝子はいつ獲得されたか？ [参考記事](https://www.riken.jp/press/2018/20181009_1/) [配列セット](https://github.com/sighe/training-materials/blob/main/Leptin10sequences.faa) <br>
 b. 「魚」を特徴づける遺伝子ー有顎魚類に広く存在するが四肢動物には存在しないActinodin遺伝子<br>
+c. VegT遺伝子はもともと脊椎動物に広く存在するが、哺乳類は
 <br>
 4. 遺伝子の系統関係（重複遺伝子の扱いを含む)<br>
 a. Hox遺伝子クラスターの成立過程を調べる（A-Dクラスター間の重複とクラスター内の多重遺伝子重複の順序）<br>
@@ -53,7 +54,7 @@ a. ジンベエザメの光受容メカニズム
 <br>
 <br>
 ### いきものつなぎ ― 40塩基のDNA配列を用いて、系統樹を手づくりする
-・[説明スライド]( https://github.com/sighe/tutorialJ/blob/main/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%A4%E3%81%AA%E3%81%8E%E3%83%BC%E8%AA%AC%E6%98%8E%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892016.pdf)<br>
+・[説明スライド](https://github.com/sighe/tutorialJ/blob/main/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%A4%E3%81%AA%E3%81%8E%E3%83%BC%E8%AA%AC%E6%98%8E%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892016.pdf)<br>
 ・[ワークシート](https://github.com/sighe/tutorialJ/blob/main/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%A4%E3%81%AA%E3%81%8E%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%882023J.pdf)
 
 ## これまでに行なった普及活動
