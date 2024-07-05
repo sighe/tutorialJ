@@ -14,7 +14,7 @@
 
 ### 実習等に用いることのできる系統樹推定用データセット選定ツール aLeaves (エイリーヴズ)
 
-・ウェブサーバ [aLeaves](https://aleaves.riken.jp/aleaves/)<br>
+・ウェブサーバ [aLeaves](https://treethinkers.nig.ac.jp/aleaves/)<br>
 ・[aLeaves紹介スライド](https://www.slideshare.net/cdb_gras/brief-introduction-of-kuraku-zsj13a-leavesup)（2013年日本動物学会年会において口頭発表）<br>
 ・[aLeaves紹介ムービー](https://togotv.dbcls.jp/20140228.html)(TogoTV)<br>
 ・[NCBI Protein](https://www.ncbi.nlm.nih.gov/protein/) - aLeavesでの検索に利用する配列(「見出し配列」あるいは「クエリー配列」)の取得
