@@ -58,7 +58,7 @@ a. ジンベエザメの光受容メカニズム
 ・[ワークシート](https://github.com/sighe/tutorialJ/blob/main/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%A4%E3%81%AA%E3%81%8E%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%882023J.pdf)
 
 ## これまでに行なった普及活動
-
+・高校一年生を対象として「DNA情報にもとづく生物の進化と多様性の研究」をテーマに韮山高校からのインターンシップを受入れ（2024年8月）
 ・[日本生物教育会（JABE）第77回全国大会](https://sites.google.com/view/jabe77osaka/home?authuser=0)にて研修「ウェブサイトaLeavesを利用した分子系統解析」近畿大学東大阪キャンパス（2023年8月） [発表スライド](https://github.com/sighe/tutorialJ/blob/main/Kuraku-JABE2023Osaka.pdf)<br>
 ・[大阪府高等学校生物教育研究会](http://seiken.sub.jp/kakari/kouenkai/index.htm)にて講演「生命情報科学によるゲノム進化研究～生命の共通語DNAで学術と社会をつなぐ～」（2020年11月）<br>
 ・令和4年度 遺伝学講座・みしま にて 一般向け講演「魚のDNAから知る5億年前の私たちの祖先」2023年1月（会場 三島市民文化会館）<br>
