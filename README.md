@@ -43,8 +43,8 @@ c．卵生から胎生に移行する際、有胎盤類（真獣類）の祖先�
 <br>
 5. 特定の生命現象に関わる遺伝子を調べる  <br>
 a. ジンベエザメの光受容メカニズム 
-[参考記事](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html) 
-[配列データセット](https://github.com/sighe/training-materials/blob/main/Rhodopsin-sharks-plus-total12.faa) <br>
+ [参考記事](https://www.nig.ac.jp/nig/ja/2023/03/research-highlights_ja/pr20230322.html)
+ [配列データセット](https://github.com/sighe/training-materials/blob/main/Rhodopsin-sharks-plus-total12.faa) <br>
 <br>
 
 ## 一般の方向け教材
